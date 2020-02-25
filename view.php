@@ -5,7 +5,8 @@
     $dbUsername = 'root';
     $dbPassword = '';
     $dbName     = 'php_programming';
-    
+    //php file
+
     //Create connection and select DB
     $db = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
     
