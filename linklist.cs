@@ -1,6 +1,6 @@
 using System;
 namespace linkedList
-{
+{//lalala
     interface ILinked_list<T>
     {
         //interface only store public messages
