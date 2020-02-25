@@ -12,10 +12,14 @@ body{
 
 	font-family: Arial, Helvetica, san-serif;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	font-size:18px;
 =======
 	font-size:21px; //changed the font size
 >>>>>>> 057373e8f6bd743c8e26eb5ec274fd83960adc98
+=======
+	font-size:281px; //changed the font size
+>>>>>>> css
 	font-weight:normal;
 	/* Same as above*/
 	font: normal 16px Arial Helvetica, 
